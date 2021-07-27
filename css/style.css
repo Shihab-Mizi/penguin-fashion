@@ -1,5 +1,20 @@
-
+*{
+    font-family: 'Poppins', sans-serif;
+}
 .header-bg{
    height: 40;
     background-color: #FFFBF0;
+}
+.buy-button{
+    background-image: linear-gradient(45deg,#8EA926,#A1BA42);
+    color: white;
+    border: none;
+    width: 170px;
+    height: 60px;
+    border-radius: 10px;
+}
+.price-color{
+    color: #FABE4C;
+    margin: 5px;
+    padding: 5px;
 }
